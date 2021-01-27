@@ -4,7 +4,7 @@
 #'@param n
 #'
 #'@return character
-#'@description
+#'@description hoge
 #'
 #'@export
 syn2 <- function(V,n){
