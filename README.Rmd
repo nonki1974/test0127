@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # synthpopJP
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/nonki1974/test0127.svg?branch=main)](https://travis-ci.com/nonki1974/test0127)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/nonki1974/test0127?branch=main&svg=true)](https://ci.appveyor.com/project/nonki1974/test0127)
 <!-- badges: end -->
 
 The goal of synthpopJP is to ...
